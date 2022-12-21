@@ -6,16 +6,16 @@
 
 /* header */
 #header .header-data {
-    font-weight: 600;
     font-size: 12px;
+    font-weight: 600;
     padding-top: 30px;
     display: block;
     color: #a8a8a8;
 }
 #header .header-title {
     font-weight: bold;
-    font-size: 32px;
-    
+    font-size: 32px; 
+
 }
 #header .header-id {
     position: absolute; right: 0; bottom: 5px;
@@ -26,14 +26,13 @@
     font-size: 18px;
     color: #fff;
     /*text-align: center;
-    line-height: 40px; */
+    line-height: 40px;*/
     display: flex;
     align-items: center;
     justify-content: center;
     text-transform: uppercase;
-    background: linear-gradient(149.16deg, #A4A9B5 10.18%, rgba(164, 169, 181, 0) 81.31%), #C4C4C4;
+    background: linear-gradient(144.46deg, #A4A9B5 2.08%, rgba(164, 169, 181, 0) 79.17%), #C4C4C4;
 }
-
 
 /* mediaquery */
 @media (max-width: 1020px){
